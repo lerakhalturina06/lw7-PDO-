@@ -1,0 +1,9 @@
+<?php
+// Настройте эти параметры под свою БД
+return [
+    'host' => 'localhost',
+    'dbname' => 'your_database',
+    'username' => 'your_user', 
+    'password' => 'your_password',
+    'charset' => 'utf8mb4'
+];
